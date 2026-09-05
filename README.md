@@ -9,13 +9,7 @@
 -  [AI Job Assistant](https://github.com/Amir-zeb/ai-job-assistant) — Next.js + Gemini AI job analyzing web app
 - [Docker & K8s Guide](https://github.com/Amir-zeb/docker-and-kubernetes-with-nextjs) — beginner-friendly DevOps guide
 
- ### 💼 Freelance Services
- - [Full-Stack Web App Development](https://www.fiverr.com/s/bd18AgY) —  MERN/Next.js/Nest.js/PostgreSQL 
- - [UI Development](https://www.fiverr.com/s/2KYrNxr) — React.js/Next.js
- - [Bugs Fixing & Debugging](https://www.fiverr.com/s/Eg3kAQ8) — Frontend/Backend/Database
-
 📩 Or reach out directly — see contact section below.
 
 ### 📫 Reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-zeb/)[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzeb695@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-v2-66d20.web.app/)[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
- ](https://www.fiverr.com/s/Eg3k70Y)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-zeb/)[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzeb695@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-v2-66d20.web.app/)
