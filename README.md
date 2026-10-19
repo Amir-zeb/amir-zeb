@@ -12,4 +12,4 @@
 📩 Or reach out directly — see contact section below.
 
 ### 📫 Reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-zeb/)[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzeb695@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-v2-66d20.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-zeb/)[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirzeb695@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://amirzeb.dev/)
